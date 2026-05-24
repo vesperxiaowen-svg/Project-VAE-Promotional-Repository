@@ -3,7 +3,7 @@ All promotional materials for Project VAE are stored in this repository.This pro
 
 # Project VAE Promotional Repository
 
-![Project VAE Demo Screenshot](https://raw.githubusercontent.com/vesperxiaowen-svg/Project-VAE-Promotional-Repository/refs/heads/main/images/start_image)
+![Project VAE Demo Screenshot](https://github.com/vesperxiaowen-svg/Project-VAE-Promotional-Repository/blob/main/images/Snipaste_2026-05-24_18-07-08.jpg)
 
 > **Note:** All promotional materials are for non-commercial use only.
 
